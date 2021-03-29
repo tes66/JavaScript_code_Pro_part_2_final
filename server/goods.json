@@ -1,0 +1,8 @@
+[
+  { "id": "1", "title": "Shirt", "price": 150, "img": "img/trash.jpg" },
+  { "id": "2", "title": "Socks", "price": 50, "img": "img/trash.jpg" },
+  { "id": "3", "title": "Jacket", "price": 350, "img": "img/trash.jpg" },
+  { "id": "4", "title": "Shoes", "price": 250, "img": "img/trash.jpg" },
+  { "id": "5", "title": "Alternator", "price": 100, "img": "img/trash.jpg" },
+  { "id": "6", "title": "Сrankshaft", "price": 120, "img": "img/trash.jpg" }
+]
